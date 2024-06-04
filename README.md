@@ -10,6 +10,7 @@ This project was made as part of CSE687-Object Oriented Design. It is a Used Tex
 - Modularization
   - Modules: Controller, Exception, Model, Repository, Service
 
+
 ## Endpoints
 
 ### Book Service Endpoints
@@ -38,7 +39,7 @@ This project was made as part of CSE687-Object Oriented Design. It is a Used Tex
 - `POST /transactions/sell`: Sell a book.
 
 ## Database Design
-![Database Design](path/to/your/image.png)
+![Database Design](![292606012-85ef78c8-7c87-4097-81ad-0c2ade088f8b](https://github.com/Vishnumahes/Used-bookstore-webapp./assets/45967733/fba96045-5cb6-4930-8373-92052a8f47f2))
 
 ## Object Oriented Design
 Principles like Encapsulation, Inheritance, and Composition are implemented.
